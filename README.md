@@ -1,3 +1,3 @@
 # Object Exercise
 
-This is an Exercise in representing everyday things as an Object. In this example, i create a vacation trip object
+This is a small example of me representing typical everyday things as an Object. In this example, I create a vacation trip object with some values filled in.
